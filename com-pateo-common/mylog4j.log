@@ -1,0 +1,3 @@
+2017-02-10 16:01:04 logFile [INFO] hello this is log4j info log
+2017-02-10 16:01:04 rollingFile [INFO] hello this is log4j info log
+2017-02-10 16:01:04 dailyFile [INFO] hello this is log4j info log
