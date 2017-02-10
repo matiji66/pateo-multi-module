@@ -1,2 +1,2 @@
 # pateo-multi-module
-this is a maven multi-module project structure with some dependence provided. 
+This is a maven multi-module project structure with some dependences provided. 
